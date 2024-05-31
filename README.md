@@ -1,1 +1,1 @@
-# Building-a-guessin-game
+# Building-a-guessing-game
